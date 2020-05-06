@@ -2,3 +2,6 @@ adding new line
 test line 1
 line 2 test
 3rd line for test
+Kim's awesome new line
+Kim's awesome new line 2
+Kim's awesome new line 3
